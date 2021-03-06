@@ -47,7 +47,7 @@
     // insert | Enter insert mode when opening or switching views or when
     //          the window receives focus and is not in visual mode i.e. visual
     //          mode selections are retained when the window loses focus.
-    "vintageous_default_mode": "insert",
+    "vintageous_default_mode": "",
 
     // Plugin: A port of https://github.com/tpope/vim-abolish.
     "vintageous_enable_abolish": true,
